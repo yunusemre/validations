@@ -67,3 +67,5 @@ export function createValidator(rules) {
     return errors;
   };
 }
+
+//https://github.com/erikras/react-redux-universal-hot-example/blob/master/src/utils/validation.js
